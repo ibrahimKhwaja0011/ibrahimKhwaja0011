@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim Khwaja 
 - 👀 I’m a Software Engineer 
-- 🌱 I’m currently learning Flutter 
+- 🌱 Flutter Developer
 - 💞️ I’m looking to collaborate on Mobile App Technnologies 
 - 📫 Reach me on ibrahim.khwaja@outlook.com
 
